@@ -1,0 +1,11 @@
+c:\users\soren\documents\visual studio 2015\Projects\LoginApp - Teknologi\bin\Debug\LoginApp - Teknologi.exe.config
+c:\users\soren\documents\visual studio 2015\Projects\LoginApp - Teknologi\bin\Debug\LoginApp - Teknologi.exe
+c:\users\soren\documents\visual studio 2015\Projects\LoginApp - Teknologi\bin\Debug\LoginApp - Teknologi.pdb
+c:\users\soren\documents\visual studio 2015\Projects\LoginApp - Teknologi\obj\Debug\LoginApp - Teknologi.csprojResolveAssemblyReference.cache
+c:\users\soren\documents\visual studio 2015\Projects\LoginApp - Teknologi\obj\Debug\LoginApp___Teknologi.Form1.resources
+c:\users\soren\documents\visual studio 2015\Projects\LoginApp - Teknologi\obj\Debug\LoginApp___Teknologi.Properties.Resources.resources
+c:\users\soren\documents\visual studio 2015\Projects\LoginApp - Teknologi\obj\Debug\LoginApp - Teknologi.csproj.GenerateResource.Cache
+c:\users\soren\documents\visual studio 2015\Projects\LoginApp - Teknologi\obj\Debug\LoginApp - Teknologi.exe
+c:\users\soren\documents\visual studio 2015\Projects\LoginApp - Teknologi\obj\Debug\LoginApp - Teknologi.pdb
+C:\Users\soren\Documents\Visual Studio 2015\Projects\LoginApp - Teknologi\obj\Debug\LoginApp___Teknologi.Form2.resources
+C:\Users\soren\Documents\Visual Studio 2015\Projects\LoginApp - Teknologi\obj\Debug\LoginApp___Teknologi.Form3.resources
